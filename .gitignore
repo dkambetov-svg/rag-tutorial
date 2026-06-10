@@ -32,3 +32,5 @@ data/processed/*.jsonl
 Thumbs.db
 data/raw/pdf/
 data/index/
+data/raw/pdf/
+data/index/
